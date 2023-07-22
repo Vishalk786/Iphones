@@ -1,0 +1,118 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+.iphone{
+    border: 1px solid rgb(107, 102, 102);
+    box-shadow: 0px 0px 0px 2px rgb(173, 224, 250);
+    width: 262px;
+    height: 499px;
+    display: flex;
+    position: absolute;
+    top:25%;
+    left: 30%;
+    border-radius: 50px;
+    background-color: rgb(169, 227, 254);
+    
+}
+.full{
+    border: 2px solid rgb(123, 210, 254);
+    background-color: rgb(169, 227, 254);
+    box-shadow: 0px 0px 0px 1px rgb(209, 237, 251);
+    width: 120px;
+    height: 120px;
+    margin: 8px;
+    border-radius: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cam1{
+    border: 15px solid black;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #023e8a;
+    margin: 12px;
+    box-shadow: 0px 0px 0px 3px rgb(122, 208, 252);
+}
+.light{
+    border: 2px solid rgb(145, 218, 252);
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: aliceblue;
+    box-shadow: 0px 0px 0px 1px rgb(193, 234, 255);
+}
+.dot{
+    border: 5px solid #3c3c3c;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    margin: 20px;
+    margin: 25px;
+    background-color: #3c3c3c;
+    box-shadow: 0px 0px 0px 3px rgb(145, 218, 255);
+}
+.cam2{
+    border: 15px solid black;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-left: 0px;
+    box-shadow: 0px 0px 0px 3px rgb(119, 206, 250);
+    background-color: #023e8a;
+}
+.phone{
+    border: 10px solid black;
+    width: 260px;
+    height: 480px;
+    display: flex;
+    position: absolute;
+    left: 60%;
+    border-radius: 50px;
+    box-shadow: 0px 0px 0px 3px rgb(169, 227, 254);
+}
+.screen{
+    border: 8px solid black;
+    width: 100px;
+    height: 0px;
+    border-radius:0px 0px 15px 15px;
+    margin-left: 70px;
+    position: absolute;
+    top: 26.4%;
+    left: 41%;
+}
+.logo{
+    margin-top: 240px;
+    height: 150px;
+}
+.img{
+    margin-left: 0px;
+    border-radius: 40px;
+    width: 400px;
+}
+.power{
+    margin: 0%;
+    border: 1px solid rgb(133, 129, 129);
+    width: 3px;
+    height: 70px;
+    position: absolute;
+    border-radius: 20px;
+    top: 45%;
+    left: 29.7%;
+    background-color: rgb(169, 227, 254);
+    box-shadow: 0px 0px 0px 0.5px rgb(169, 227, 254);
+}
+.cam3{
+    position: absolute;
+    border: 3px solid rgb(63, 58, 58);
+    width: 10px;
+    height: 10px;
+    margin-left: 10px;
+    border-radius: 50%;
+    top: -10px;
+    background-color: rgb(2, 2, 109);
+}
